@@ -1,0 +1,2 @@
+codigo do kit de icones:
+<script src="https://kit.fontawesome.com/3e580331ad.js" crossorigin="anonymous"></script>
